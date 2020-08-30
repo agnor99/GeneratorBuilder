@@ -1,0 +1,23 @@
+
+Â
+java:S1598"¦This file "ItemGeneratorScreen.java" should be located in "com\agnor99\crazygenerators\client\gui" directory, not in "C:\Users\tom\Documents\GitHub\GeneratorBuilder".(Ôÿ¢†øÿÿÿÿ
+x
+java:S1128"]Remove this unused import 'com.agnor99.crazygenerators.objects.tile.ItemGeneratorTileEntity'.(ßÖË†üÿÿÿÿ
+g
+java:S1128"LRemove this unused import 'com.agnor99.crazygenerators.network.NetworkUtil'.(‰öŸûÿÿÿÿ
+\
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ
+h
+java:S1128"MRemove this unused import 'net.minecraft.util.text.TranslationTextComponent'.(Ú¹úÿÿÿÿ
+>
+java:S1185&"(Remove this method to simply inherit it.(óÖŞ´
+W
+java:S18540"ARemove this useless assignment to local variable "DEFAULT_COLOR".(ÏçÈÚ
+O
+java:S1854/"9Remove this useless assignment to local variable "WHITE".(¨Òó‘
+C
+java:S1185:"(Remove this method to simply inherit it.(¡ÃÇ úÿÿÿÿ
+@
+java:S1481/"*Remove this unused "WHITE" local variable.(¨Òó‘
+H
+java:S14810"2Remove this unused "DEFAULT_COLOR" local variable.(ÏçÈÚ
