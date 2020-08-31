@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62960732-0bc1-4e22-b073-b9da92dae225" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.blockmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.blockstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.itemmodel" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.loot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6614962022ac24d1048d5c297b7abc4b211c91e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +92,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2601" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598821855437">
-      <screen x="1920" y="-112" width="1920" height="1160" />
+    <state x="681" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598900736076">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="681" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1598900736076" />
     <state x="2601" y="272" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598821855437" />
     <state width="1876" height="396" key="GridCell.Tab.0.bottom" timestamp="1598822498954">
       <screen x="1920" y="-112" width="1920" height="1160" />
@@ -122,6 +129,10 @@
       <screen x="1920" y="-112" width="1920" height="1160" />
     </state>
     <state width="1876" height="396" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
+    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1598896997258">
+      <screen x="1920" y="-112" width="1920" height="1160" />
+    </state>
+    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1598896997258" />
     <state x="2536" y="214" key="run.anything.popup" timestamp="1598820195537">
       <screen x="1920" y="-112" width="1920" height="1160" />
     </state>
