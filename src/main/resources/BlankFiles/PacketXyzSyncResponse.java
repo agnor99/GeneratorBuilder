@@ -17,8 +17,8 @@ import java.util.function.Supplier;
 
 public class PacketXyzSyncResponse extends PacketAbstractSyncResponse {
 
-    public PacketXyzSyncResponse(int energy, boolean shouldClose) {
-        super(energy, shouldClose);
+    public PacketXyzSyncResponse(int energy) {
+        super(energy);
     }
 
     public PacketXyzSyncResponse(PacketBuffer buf) {
@@ -33,7 +33,5 @@ public class PacketXyzSyncResponse extends PacketAbstractSyncResponse {
     @Override
     public void doWork(Supplier<NetworkEvent.Context> context) {
         super.doWork(context);
-
-        context.get().setPacketHandled(true);
     }
 }

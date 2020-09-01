@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62960732-0bc1-4e22-b073-b9da92dae225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.blockmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.blockstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.itemmodel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/xyz_generator.json.loot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/6/e6614962022ac24d1048d5c297b7abc4b211c91e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorTileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorTileEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -28,8 +28,8 @@ public class XyzGeneratorTileEntity extends GeneratorTileEntity{
 
     @Override
     public void tick() {
-        if(world.isRemote()) return;
         super.tick();
+        if(!shouldTickIntern()) return;
     }
 
     @Override
@@ -40,10 +40,6 @@ public class XyzGeneratorTileEntity extends GeneratorTileEntity{
 
     @Override
     public PacketAbstractSyncResponse generateSyncPacket() {
-        if(players.size() > 1) {
-            return new PacketXyzSyncResponse(getEnergy(), true);
-        }
-        generateUnlockData();
-        return new PacketXyzSyncResponse(getEnergy(),false);
+        return new PacketXyzSyncResponse(getEnergy());
     }
 }
