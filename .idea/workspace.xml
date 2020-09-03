@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62960732-0bc1-4e22-b073-b9da92dae225" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dcd413a8a3ab1dcc95fc1d6564c9027925a8a9f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dcd413a8a3ab1dcc95fc1d6564c9027925a8a9f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GeneratorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/GeneratorBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/BlankFiles/XyzGeneratorScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/BlankFiles/XyzGeneratorScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GeneratorBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GeneratorBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorTileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/BlankFiles/XyzGeneratorTileEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,21 +104,25 @@
     </state>
     <state x="681" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1598900736076" />
     <state x="2601" y="272" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598821855437" />
-    <state width="1876" height="396" key="GridCell.Tab.0.bottom" timestamp="1598822498954">
-      <screen x="1920" y="-112" width="1920" height="1160" />
+    <state width="1876" height="281" key="GridCell.Tab.0.bottom" timestamp="1599154132255">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1599154132255" />
     <state width="1876" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
-    <state width="1876" height="396" key="GridCell.Tab.0.center" timestamp="1598822498954">
-      <screen x="1920" y="-112" width="1920" height="1160" />
+    <state width="1876" height="281" key="GridCell.Tab.0.center" timestamp="1599154132255">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1599154132255" />
     <state width="1876" height="396" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
-    <state width="1876" height="396" key="GridCell.Tab.0.left" timestamp="1598822498954">
-      <screen x="1920" y="-112" width="1920" height="1160" />
+    <state width="1876" height="281" key="GridCell.Tab.0.left" timestamp="1599154132255">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1599154132255" />
     <state width="1876" height="396" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
-    <state width="1876" height="396" key="GridCell.Tab.0.right" timestamp="1598822498954">
-      <screen x="1920" y="-112" width="1920" height="1160" />
+    <state width="1876" height="281" key="GridCell.Tab.0.right" timestamp="1599154132255">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1876" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1599154132255" />
     <state width="1876" height="396" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
     <state width="1876" height="396" key="GridCell.Tab.1.bottom" timestamp="1598822498954">
       <screen x="1920" y="-112" width="1920" height="1160" />
@@ -123,10 +140,10 @@
       <screen x="1920" y="-112" width="1920" height="1160" />
     </state>
     <state width="1876" height="396" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-112.1920.1160@1920.-112.1920.1160" timestamp="1598822498954" />
-    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1598896997258">
+    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1599068308765">
       <screen x="1920" y="-112" width="1920" height="1160" />
     </state>
-    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1598896997258" />
+    <state x="2576" y="293" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-112.1920.1160@0.0.1920.1040" timestamp="1599068308765" />
     <state x="2536" y="214" key="run.anything.popup" timestamp="1598820195537">
       <screen x="1920" y="-112" width="1920" height="1160" />
     </state>

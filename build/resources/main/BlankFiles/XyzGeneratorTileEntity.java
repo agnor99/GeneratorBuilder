@@ -2,12 +2,11 @@ package com.agnor99.crazygenerators.objects.tile;
 
 import com.agnor99.crazygenerators.objects.container.XyzGeneratorContainer;
 import com.agnor99.crazygenerators.init.TileInit;
-import com.agnor99.crazygenerators.network.packets.sync.*;
+import com.agnor99.crazygenerators.network.packets.sync.PacketAbstractSyncResponse;
+import com.agnor99.crazygenerators.network.packets.sync.PacketXyzSyncResponse;
 import net.minecraft.entity.player.PlayerInventory;
 import net.minecraft.inventory.container.Container;
 import net.minecraft.tileentity.TileEntityType;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.util.text.TranslationTextComponent;
 
 import java.awt.*;
 import java.util.Random;

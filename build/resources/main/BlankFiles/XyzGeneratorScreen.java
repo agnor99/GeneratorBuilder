@@ -28,10 +28,6 @@ public class XyzGeneratorScreen extends GeneratorScreen<XyzGeneratorContainer> {
     @Override
     protected void init() {
         super.init();
-        setPlayerButton = new SetPlayerButton();
-        newCoordsButton = new NewCoordsButton();
-        addButton(setPlayerButton);
-        addButton(newCoordsButton);
     }
 
     @Override

@@ -1,0 +1,38 @@
+BlockInit:
+
+    public static final XyzGeneratorBlock xyz_generator = new XyzGeneratorBlock();
+
+        event.getRegistry().register(xyz_generator);
+
+        event.getRegistry().register(xyz_generator.createItemFromItemBlock(new TranslationTextComponent("lore.xyz_generator")));
+
+
+ContainerInit:
+
+    public static final RegistryObject<ContainerType<XyzGeneratorContainer>> XYZ_GENERATOR = CONTAINER_TYPES.
+            register("xyz_generator", () -> IForgeContainerType.create(XyzGeneratorContainer::new));
+
+
+TileInit:
+
+    public static final RegistryObject<TileEntityType<XyzGeneratorTileEntity>> XYZ_GENERATOR = TILE_ENTITY_TYPES.register(
+            "xyz_generator",
+            () -> TileEntityType.Builder.create(XyzGeneratorTileEntity::new, BlockInit.xyz_generator)
+                    .build(null)
+    );
+
+
+NetworkUtil:
+
+        INSTANCE.registerMessage(
+                nextID(),
+                PacketXyzSyncResponse.class,
+                PacketXyzSyncResponse::toBytes,
+                PacketXyzSyncResponse::new,
+                PacketXyzSyncResponse::handle
+        );
+
+
+ClientEventBusSubscriber:
+
+        ScreenManager.registerFactory(ContainerInit.XYZ_GENERATOR.get(), XyzGeneratorScreen::new);

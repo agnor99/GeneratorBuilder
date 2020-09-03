@@ -35,6 +35,7 @@ public class GeneratorBuilder {
         }
     }
     static void cloneFile(File file) throws IOException {
+        new File("CreatedFiles").mkdir();
         FileOutputStream stream = new FileOutputStream(new File("CreatedFiles", replaceXyz(file.getName())));
         BufferedReader fileReader = new BufferedReader(new FileReader(file));
         String line = fileReader.readLine();
